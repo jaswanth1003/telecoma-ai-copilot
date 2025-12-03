@@ -13,6 +13,9 @@ A LangChain-powered conversational AI assistant for analyzing Telecom KPI data. 
 - 📁 **Tool-Driven Agent**: Modular LangChain tools for in-depth queries
 
 ---
+## Architecture Diagram 
+
+<img width="1280" height="488" alt="image" src="https://github.com/user-attachments/assets/bcfa08af-1b67-4ec1-82c8-58f0e126a591" />
 
 ## 🧠 Example Queries
 
